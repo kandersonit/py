@@ -3,5 +3,8 @@
         {
             "path": "../.git"
         }
-    ]
+    ],
+    "settings": {
+        "dotnet.defaultSolution": "WebApplication1.sln"
+    }
 }
