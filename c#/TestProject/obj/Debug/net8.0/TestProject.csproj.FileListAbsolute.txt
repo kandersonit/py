@@ -1,0 +1,15 @@
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\bin\Debug\net8.0\TestProject.exe
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\bin\Debug\net8.0\TestProject.deps.json
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\bin\Debug\net8.0\TestProject.dll
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\bin\Debug\net8.0\TestProject.pdb
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.dll
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.pdb
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+c:\Users\keith.anderson\OneDrive - Campbell Scientific Inc\Documents\code\c#\TestProject\obj\Debug\net8.0\ref\TestProject.dll
